@@ -1,0 +1,2 @@
+# gp-app-angular-spa-dashboard
+Projeto aplicação SPA, utilizando Angular 5 sendo gerado Painel Dashboard. Nesse projeto será criado uma Single Page Application com o Angular. Para isso, usaremos como cenário um Dashboard, que apresenta um resumo das consultas marcadas, assim como do faturamento de uma clínica médica.  Esta aplicação cliente receberá os dados com os quais trabalhará de uma Web API, e os apresentará em painéis criados para este fim.
